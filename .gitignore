@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+.apt_generated
+
+### OS-specific files ###
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
